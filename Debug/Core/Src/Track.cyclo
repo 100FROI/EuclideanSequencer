@@ -1,0 +1,8 @@
+../Core/Src/Track.c:5:6:Track_initTrack	1
+../Core/Src/Track.c:21:6:Track_TriggerNextBeat	1
+../Core/Src/Track.c:26:6:Track_updatePattern	1
+../Core/Src/Track.c:34:6:Track_updateSteps	6
+../Core/Src/Track.c:60:6:Track_updateHits	6
+../Core/Src/Track.c:86:6:Track_offsetPattern	2
+../Core/Src/Track.c:96:6:Track_updateSubdivision	8
+../Core/Src/Track.c:138:6:Track_TogglePin	3

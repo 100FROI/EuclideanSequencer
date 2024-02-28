@@ -1,0 +1,5 @@
+../Core/Src/CVSequencer.c:3:6:CVSeq_initCVSequencer	24	static
+../Core/Src/CVSequencer.c:19:6:CVSeq_updateCVValue	16	static
+../Core/Src/CVSequencer.c:36:6:CVSeq_changeFrequency	16	static
+../Core/Src/CVSequencer.c:50:6:CVSeq_incrementDisplay	16	static
+../Core/Src/CVSequencer.c:56:6:CVSeq_resetDisplay	24	static

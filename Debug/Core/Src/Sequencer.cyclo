@@ -1,0 +1,17 @@
+../Core/Src/Sequencer.c:3:6:Seq_initSequencer	3
+../Core/Src/Sequencer.c:28:6:Seq_IncrementBPMDisplay	1
+../Core/Src/Sequencer.c:34:6:Seq_DecrementBPMDisplay	2
+../Core/Src/Sequencer.c:43:6:Seq_IncrementModeDisplay	1
+../Core/Src/Sequencer.c:49:6:Seq_ResetModeDisplay	2
+../Core/Src/Sequencer.c:58:6:Seq_ChangeMode	5
+../Core/Src/Sequencer.c:85:6:Seq_modifyBPM	5
+../Core/Src/Sequencer.c:110:6:Seq_updateBPM	3
+../Core/Src/Sequencer.c:123:6:Seq_Error_Handler	1
+../Core/Src/Sequencer.c:134:6:Seq_computeTriggers	3
+../Core/Src/Sequencer.c:149:6:Seq_Trigger	2
+../Core/Src/Sequencer.c:160:6:Seq_TracksExternalInterruption	5
+../Core/Src/Sequencer.c:181:6:Seq_updateSteps	2
+../Core/Src/Sequencer.c:189:6:Seq_updateHits	2
+../Core/Src/Sequencer.c:197:6:Seq_offsetPattern	2
+../Core/Src/Sequencer.c:205:6:Seq_updateSubdivision	2
+../Core/Src/Sequencer.c:213:6:Seq_resetTriggers	3

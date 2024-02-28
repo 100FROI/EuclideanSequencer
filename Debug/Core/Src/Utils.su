@@ -1,0 +1,3 @@
+../Core/Src/Utils.c:12:6:Utils_concatenatePatterns	24	static
+../Core/Src/Utils.c:17:10:Utils_computePattern	40	static
+../Core/Src/Utils.c:62:15:Utils_boolToPinState	16	static
